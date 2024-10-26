@@ -32,27 +32,27 @@ Filter them by meat type
 
 ## Technologies Used
 
-- **Frontend**: React, Redux, Material-UI
-- **Backend**: AWS Lambda (serverless)
+- **Frontend**: React, Redux
+- **Backend**: Serverless
 - **Deployment**:
-  - frontend: GitHub Actions, S3, CloudFront
-  - backend: GitHub Actions, Docker, Render
+  - frontend: Firebase
+  - backend: AWS Lambda, AWS
 
 ## Project Architecture
 
-Frontend with email service from AWS.
+Frontend build with React, email service with AWS Lambda.
 
 ## Team
 
 [LinkedIn](https://www.linkedin.com/in/mychel-garzon-trujillo) Mychel Garzon Trujillo - _project management and frontend development_
 
+[LinkedIn]() Juan - _UI/UX Designer_
+
 [LinkedIn](https://www.linkedin.com/in/pinja-alanne-3920a1161) Pinja Alanne - _frontend development_
 
-[LinkedIn](https://www.linkedin.com/in/aj-kivimaki) Atte Kivimäki - frontend development\_
+[LinkedIn](https://www.linkedin.com/in/aj-kivimaki) Atte Kivimäki - _frontend development_
 
-I built the cart and form part of the app, and setted up the lambda function for the email with the team.
-
-I developed the shopping cart and order form. I collaborated with the team to set up the Lambda function for email order confirmations.
+I developed the **shopping cart** and **order form**. I collaborated with the team to set up the Lambda function for email order confirmations.
 
 ## Contact
 
